@@ -2,7 +2,7 @@
 
 Official implementation of the Normalized Label Distribution Paper
 
-[Utkarsh Uppal](mailto:uppalutkarsh98@gmail.com), Bharat Giddwani
+**[Utkarsh Uppal](mailto:uppalutkarsh98@gmail.com), Bharat Giddwani**
 
 ### Overview
 
