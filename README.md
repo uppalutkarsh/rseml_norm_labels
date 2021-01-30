@@ -6,6 +6,9 @@ Official implementation of the Normalized Label Distribution Paper
 
 ### Overview
 
+In our work, we address the trade-off between the accuracy and calibration potential of a classification network. We integrate normalization to label smoothing crossentropy
+loss, allowing cost function to impede network’s over-confidence, refine calibration, and enhance the model’s performance and uncertainty capacity.
+
 ## Getting started
 
 ### Install dependencies
