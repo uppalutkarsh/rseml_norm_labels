@@ -1,0 +1,5 @@
+numpy
+matplotlib
+torch
+torchvision
+efficientnet_pytorch
