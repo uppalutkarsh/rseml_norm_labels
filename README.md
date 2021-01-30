@@ -15,7 +15,7 @@ loss, allowing cost function to impede network’s over-confidence, refine calib
 
 
 #### Requirements
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    
 ### Training
 
