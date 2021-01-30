@@ -1,1 +1,1 @@
-# rseml_norm_labels
+# Normalized Label Distribution: Towards Learning Calibrated, Adaptable and Efficient Activation Maps
