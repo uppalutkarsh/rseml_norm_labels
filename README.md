@@ -20,7 +20,7 @@ loss, allowing cost function to impede network’s over-confidence, refine calib
 ### Training
 Training state-of-the-art vanilla models:
 1. Cross Entropy Loss
-    python train.py
+'''python train.py'''
     
 2. Label Smoothing Cross Entropy Loss
     python train_soft.py
