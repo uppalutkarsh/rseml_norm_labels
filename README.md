@@ -23,28 +23,28 @@ Training state-of-the-art vanilla models:
 > python train.py
     
 2. Label Smoothing Cross Entropy Loss
-    python train_soft.py
+> python train_soft.py
     
 3. Normalized Label Smoothing Cross Entropy Loss
-    python train_soft_norm.py
+> python train_soft_norm.py
     
 Training Partially convoluted state-of-the-art models:
 1. Cross Entropy Loss
-    python train_pc.py
+> python train_pc.py
     
 2. Label Smoothing Cross Entropy Loss
-    python train_pc_soft.py
+> python train_pc_soft.py
     
 3. Normalized Label Smoothing Cross Entropy Loss
-    python train_pc_soft_norm.py
+> python train_pc_soft_norm.py
     
 ### Test instruction using pretrained model
 With different models run:-
-    python eval.py 
+> python eval.py 
 
 ### Visualization
 Visualizing Features extracted from models:-
-    python TSNE.py
+> python TSNE.py
     
 ## Citation
 
