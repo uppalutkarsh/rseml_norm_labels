@@ -18,12 +18,34 @@ loss, allowing cost function to impede network’s over-confidence, refine calib
     pip install -r requirements.txt
    
 ### Training
-
-
+Training state-of-the-art vanilla models:
+1. Cross Entropy Loss
+    python train.py
+    
+2. Label Smoothing Cross Entropy Loss
+    python train_soft.py
+    
+3. Normalized Label Smoothing Cross Entropy Loss
+    python train_soft_norm.py
+    
+Training Partially convoluted state-of-the-art models:
+1. Cross Entropy Loss
+    python train_pc.py
+    
+2. Label Smoothing Cross Entropy Loss
+    python train_pc_soft.py
+    
+3. Normalized Label Smoothing Cross Entropy Loss
+    python train_pc_soft_norm.py
+    
 ### Test instruction using pretrained model
+With different models run:-
+    python eval.py 
 
-### Arguments
-
+### Visualization
+Visualizing Features extracted from models:-
+    python TSNE.py
+    
 ## Citation
 
 @misc{uppal2020normalized,
