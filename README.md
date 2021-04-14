@@ -56,5 +56,3 @@ Visualizing Features extracted from models:-
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-
-## License
